@@ -1,3 +1,3 @@
 ### ⚡welcome to my profile⚡
 
-I am a junior software developer 
+I am a junior Blockchain developer 
