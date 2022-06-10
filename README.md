@@ -6,3 +6,9 @@
 
 •Contact "lkn.galvan.martin@gmail.com"
 
+You can find me:
+ •Blog.
+ •Twitter
+    Youtube
+ •Instagram
+
