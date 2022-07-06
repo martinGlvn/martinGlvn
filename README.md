@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QnU6mOrBbElaIQz4Fe/giphy.gif" width="200"/>
+    <img src="https://media.istockphoto.com/photos/cryptocurrency-bitcoin-symbol-crypto-binary-virtual-data-blockchain-picture-id1288055255?s=612x612" width="300"/>
     <h1 align="center">Hi, I'm Blockchain Developer</h1>
     <h3 align="center">
         En esta Seccion nos enfocaremos en ingresar toda nuestra presentacion
@@ -18,6 +18,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40" />&nbsp;
-        <img src="" alt="Graphql" width="40" height="40" />&nbsp;
     </div>
 </div>
+
+----
+
+### My stats
+![MartinDev GitHub stats](https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
