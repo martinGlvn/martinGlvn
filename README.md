@@ -18,5 +18,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40" />&nbsp;
+        <img src="" alt="Graphql" width="40" height="40" />&nbsp;
     </div>
 </div>
