@@ -24,8 +24,8 @@
 
 ## ⚙️GitHub⚙️
 <p align="izquierda">
-<img width="475em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="estadísticas de maykbrito"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="La mayoría de los idiomas de maykbrito" />
+<img width="375em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="estadísticas de maykbrito"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="La mayoría de los idiomas de maykbrito" />
 </p>
 
 
