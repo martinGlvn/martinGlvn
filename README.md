@@ -1,14 +1,13 @@
 <img align="right" height="590em" src="https://i.ibb.co/M2mchMS/Group.png"/>
 <h1 align="left">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, soy Martin Galván</h1>
 
-- 🔥 Desarrollador Blockchain.
+- 🚀Blockchain Developer🚀
 
-- 💬 Pregúntame sobre **JavaScript, HTML, CSS,  Node.JS**
+- 🔥ask me about ** Solity, DeFi, Web3, Polygon **🔥
 
-- ⚡ Dato curioso **Oneye 😜**
+- ⚡ I am currently learning in **LearnWeb3.io - Web3.University- Platzi - OracleNextEducation** ⚡
 
-- 👨‍💻 Más en [Linkedin ](https://www.linkedin.com/in/martingalvan1/)
-
+- 🦄 more about me [Linkedin ](https://www.linkedin.com/in/martingalvan1/) 🦄
 
 <br><br>
 ## 🛠  Pila de tecnología
@@ -22,9 +21,12 @@
 ![Rebaja](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) 
 ![Código de Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 <br><br>
+
+<br><br>
+<br><br>
 ## ⚙️  Análisis de GitHub
 <p align="izquierda">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="estadísticas de maykbrito"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="estadísticas de maykbrito"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="La mayoría de los idiomas de maykbrito" />
 </p>
 
