@@ -11,15 +11,16 @@
 
 <br><br>
 ## 🛠  Pila de tecnología
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) 
-![Reaccionar](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-![Rebaja](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) 
-![Código de Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![Solidity](https://img.shields.io/twitter/url?label=solidity&logo=solidity&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic) 
+![Javascript](https://img.shields.io/twitter/url?label=javascript&logo=javascript&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
+![Ethereum](https://img.shields.io/twitter/url?label=ethereum&logo=ethereum&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
+![React](https://img.shields.io/twitter/url?label=react&logo=react&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
+<br><br>
+![GraphQL](https://img.shields.io/twitter/url?label=grapqhql&logo=graphql&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
+![Next.js](https://img.shields.io/twitter/url?label=next&logo=next.js&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
+
+<br><br>
+
 <br><br>
 
 <br><br>
