@@ -1,16 +1,13 @@
-<img align="right" height="590em" src="https://ibb.co/FxF5Wg3"><img src="https://i.ibb.co/M2mchMS/Group.png"/>
-<h1 align="left">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, soy Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Vistas de perfil" /> </p>
+<img align="right" height="590em" src="https://i.ibb.co/M2mchMS/Group.png"/>
+<h1 align="left">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, soy Martin Galván</h1>
 
 - 🔥 Desarrollador Blockchain.
 
-- 🔭 Actualmente trabajo en [ Rocketseat ](https://github.com/Rocketseat)
-
-- 💬 Pregúntame sobre **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Pregúntame sobre **JavaScript, HTML, CSS,  Node.JS**
 
 - ⚡ Dato curioso **Oneye 😜**
 
-- 👨‍💻 Más en [ maykbrito.dev ](https://maykbrito.dev)
+- 👨‍💻 Más en [Linkedin ](https://www.linkedin.com/in/martingalvan1/)
 
 
 <br><br>
@@ -37,10 +34,11 @@
 ##  Contacto
 
 <p align="izquierda" estilo="fondo:amarillo">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="lkn.galvan.martin@gmail.com" target="_blank">
+  <img align="center" height="40em" width="40em" src="https://i.ibb.co/54FpNSH/icons8-gmail-240.png" alt="icons8-gmail-240" alt="codepen"/>
+  <img align="center" height="50em" width="50em" src="https://i.ibb.co/MDpMLPg/icons8-linkedin-240.png" alt="icons8-gmail-240" alt="codepen"/>
 </a>
 </p>
 
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+
