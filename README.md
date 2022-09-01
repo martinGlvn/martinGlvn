@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://i.ibb.co/M2mchMS/Group.png"/>
-<h1 align="left">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, soy Martin Galván</h1>
+<h1 align="left">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h1>
 
 - 🚀Blockchain Developer🚀
 
