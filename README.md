@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://i.ibb.co/M2mchMS/Group.png"/>
+<img align="right" height="500em" src="https://i.ibb.co/M2mchMS/Group.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h1>
 
 - 🚀Blockchain Engineer🚀
