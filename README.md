@@ -25,7 +25,7 @@
 ## ⚙️GitHub⚙️
 <p align="izquierda">
 <img width="375em" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=vision-friendly-dark" alt="estadísticas de Martin"/>
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=vision-friendly-dark" alt="La mayoría de los idiomas de martin" />
+<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=vision-friendly-dark" alt="La mayoría de los idiomas de martin" />
 </p>
 
 
