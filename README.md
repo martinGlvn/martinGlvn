@@ -19,8 +19,7 @@
 ![Next.js](https://img.shields.io/twitter/url?label=next&logo=next.js&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
 <br><br>
 
-<br><br>
-<br><br>
+
 
 
 ## ⚙️GitHub⚙️
@@ -30,7 +29,6 @@
 </p>
 
 
-<br><br>
 
 ##  Contact
 
