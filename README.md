@@ -11,7 +11,7 @@
       <a href="https://dunsin.vercel.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
-        <h3>Hello👋🏾</h3>
+        <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h1>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
         <br/>
         🚀 &nbsp;Blockchain Developer 🚀
