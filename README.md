@@ -4,7 +4,54 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Azarate+Mono&size=25&duration=2000&pause=1000&color=DD6700&background=812DFF00&center=true&vCenter=true&width=420&lines=%7C-----Cyber+Segurity-----%7C;%7C-----------DeFi----------%7C;%7C--------Ethereum---------%7C;%7C-----------Web3------------%7C" alt="Typing SVG" /></a>
 </p>
 
-##
+<!-------------------------New Code------------------------->
+<table>
+  <tr>
+    <td valign="center">
+      <a href="https://dunsin.vercel.app/">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
+      <p>
+        <h3>Hello👋🏾</h3>
+        👀 &nbsp;I love to build projects, make life easier and fun with code.
+        <br/>
+        🚀 &nbsp;I love contributing to Opensource.
+        <br/>
+        🙂 &nbsp; I'm a content creator on Instagram.
+        <br/>
+        🧑🏽‍💻 &nbsp; Open to work opportunities
+        <br />
+        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
+        <br/>
+        <br />
+        <h3>Show your Support🤝🏽</h3>
+        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+        <br/>
+        <br />
+        <h3>Twitter & Discord Community</h3>
+        <a href="https://discord.gg/kcFraw3nhz"><img src="https://dcbadge.vercel.app/api/server/kcFraw3nhz" alt="Realist discord server"/></a>
+        <br/>
+        <a href="https://twitter.com/DunsinWebDev">
+          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+       </p>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img align="right" width="250" height="350em" src="https://i.ibb.co/Cb2hsJM/Group-6684.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h1>
