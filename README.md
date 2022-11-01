@@ -5,7 +5,7 @@
 </p>
 
 <!-------------------------New Code------------------------->
-<table>
+<table align="center">
   <tr>
     <td valign="center">
       <a href="https://dunsin.vercel.app/">
