@@ -1,5 +1,4 @@
-<img align="center"  src="https://i.ibb.co/cJZxK8S/Group-3.png"/>
-
+<img align="center" src="https://i.ibb.co/KL66f7V/Group-5.png" />
 
 <img align="right" width="300" height="450em" src="https://i.ibb.co/Cb2hsJM/Group-6684.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h1>
