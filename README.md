@@ -39,7 +39,7 @@
        </p>
     </td>
     <td>
-      <img src="https://i.ibb.co/Cb2hsJM/Group-6684.png" width="250" alt="Martin Dev Card"/>
+      <img src="https://i.postimg.cc/B63WkLSK/Final.png" width="250" alt="Martin Dev Card"/>
     </td>
   </tr>
 </table>
