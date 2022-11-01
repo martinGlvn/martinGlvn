@@ -16,9 +16,9 @@
         <br/>
         🚀 &nbsp;Blockchain Developer 🚀
         <br/>
-        🙂 &nbsp; I'm a content creator on Instagram.
+        ⚡ &nbsp;I am learning in LearnWeb3.io - Web3.University - AlchemyUniversity⚡
         <br/>
-        🧑🏽‍💻 &nbsp; Open to work opportunities
+        🧑🏽‍💻 &nbsp;Open to work opportunities
         <br />
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
@@ -65,16 +65,8 @@
 - ⚡ I am currently learning in **LearnWeb3.io - Web3.University- Platzi - OracleNextEducation** ⚡
 
 - 🦄 more about me [Linkedin ](https://www.linkedin.com/in/martingalvan1/) 🦄
-## 🛠  Pila de tecnología
-<br><br>
-![Solidity](https://img.shields.io/twitter/url?label=solidity&logo=solidity&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic) 
-![Javascript](https://img.shields.io/twitter/url?label=javascript&logo=javascript&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
-![Ethereum](https://img.shields.io/twitter/url?label=ethereum&logo=ethereum&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
-![React](https://img.shields.io/twitter/url?label=react&logo=react&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
-<br><br>
-![GraphQL](https://img.shields.io/twitter/url?label=grapqhql&logo=graphql&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
-![Next.js](https://img.shields.io/twitter/url?label=next&logo=next.js&style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3Dsolidity%26logo%3Dsolidity%26style%3Dplastic)
-<br><br>
+
+
 
 
 
