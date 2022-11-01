@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/yQWGHGF/Group-5.png" width=100% />
+<img src="https://i.ibb.co/41KsCjr/Group-5.jpg" width=100% />
 
 
 <img align="right" width="300" height="450em" src="https://i.ibb.co/Cb2hsJM/Group-6684.png"/>
