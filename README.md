@@ -14,7 +14,7 @@
         <h3>Hello👋🏾</h3>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
         <br/>
-        🚀 &nbsp;I love contributing to Opensource.
+        🚀 &nbsp;Blockchain Developer 🚀
         <br/>
         🙂 &nbsp; I'm a content creator on Instagram.
         <br/>
@@ -23,6 +23,9 @@
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
+      <p align="center">
+        <img src="https://i.postimg.cc/1zpD89Cc/icons.png"/>
+      </p>
         <h3></h3>
         <a  <a/>
         <br/>
@@ -56,9 +59,6 @@
 
 <img align="right" width="250" height="350em" src="https://i.ibb.co/Cb2hsJM/Group-6684.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h1>
-
-
-- 🚀Blockchain Engineer🚀
 
 - 🔥ask me about ** Solity, DeFi, Web3, Polygon **🔥
 
