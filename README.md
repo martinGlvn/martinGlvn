@@ -23,7 +23,7 @@
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
-      <p align="center">
+      <p align="left">
         <img src="https://i.postimg.cc/1zpD89Cc/icons.png"/>
       </p>
         <h3></h3>
