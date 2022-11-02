@@ -41,10 +41,6 @@
         <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-white" alt="">&nbsp;
       </span>
       </div>
-      
-        <br/>
-        <br/>
-        <a></a>
         <br/>
         <a>
           <img/>
