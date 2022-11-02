@@ -27,11 +27,21 @@
         <img src="https://i.postimg.cc/1zpD89Cc/icons.png"/>
       </p> 
       <h3>Real Life Skills</h3>
+      <div>
       <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-white" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Team%20Management-white" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-white" alt="">&nbsp;
       </span>
+      </div>
+      <div>
+      <span>
+        <img src="https://img.shields.io/badge/-Communication%20Skills-white" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Team%20Management-white" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-white" alt="">&nbsp;
+      </span>
+      </div>
+      
         <br/>
         <br/>
         <a></a>
