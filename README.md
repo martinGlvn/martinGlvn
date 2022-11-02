@@ -26,17 +26,13 @@
       <p align="left">
         <img src="https://i.postimg.cc/1zpD89Cc/icons.png"/>
       </p>
-<!--       ### Real Life Skills -->
+      <!--       ### Real Life Skills -->
       <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;
       </span>
-      <span>
-        <img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;
-      </span>
+      
       <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;
