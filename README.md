@@ -51,7 +51,8 @@
   </td>
   
   <td>
-    <a href="http://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <a href="http://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com?user=martinGlvn&theme=java-dark&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" />
+    
    </a>
   </td>
    
