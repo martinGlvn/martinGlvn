@@ -28,12 +28,21 @@
       </p>
 <!--       ### Real Life Skills -->
       <span>
-        <img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;
+      </span>
+      <span>
+        <img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;
+      </span>
+      <span>
+        <img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;
       </span>
       
-<img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Event%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Creative%20Thinking-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Leadership-skyblue" alt="">
-<img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Solving-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
         <h3></h3>
         <a  <a/>
         <br/>
