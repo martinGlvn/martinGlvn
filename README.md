@@ -32,10 +32,8 @@
         <img src="https://img.shields.io/badge/-Team%20Management-white" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-white" alt="">&nbsp;
       </span>
-        <h3></h3>
         <br/>
-        <br />
-        <h3></h3>
+        <br/>
         <a></a>
         <br/>
         <a>
