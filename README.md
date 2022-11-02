@@ -25,19 +25,21 @@
         <br />
       <p align="left">
         <img src="https://i.postimg.cc/1zpD89Cc/icons.png"/>
-      </p>
-      
-      ##Real Life Skills
+      </p> 
+      <h3>Real Life Skills</h3>
       <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;
       </span>
-<!--       <span>
+      
+<!--  
+      <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;
-      </span> -->
+      </span> 
+-->
         <h3></h3>
         <a  <a/>
         <br/>
