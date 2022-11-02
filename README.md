@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Azarate+Mono&size=25&duration=2000&pause=1000&color=DD6700&background=812DFF00&center=true&vCenter=true&width=420&lines=%7C-----Cyber+Segurity-----%7C;%7C-----------DeFi----------%7C;%7C--------Ethereum---------%7C;%7C-----------Web3------------%7C" alt="Typing SVG" /></a>
 </p>
 
-<!-------------------------New Code------------------------->
+<!--=========================================================================================-->
 <table align="center">
   <tr>
     <td valign="center">
@@ -43,37 +43,29 @@
     </td>
   </tr>
 </table>
-
+<!--=========================================================================================-->
 <table>
  <tr>
+   
   <td>
-      <a href="https://github.com/martinGlvn"><img alt="Martin Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=vision-friendly-dark" /></a>
-  </td>
+      <a href="https://github.com/martinGlvn"><img alt="Martin Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=vision-friendly-dark" width="450px" />
+      </a>
+  </td> 
   
   <td>
-    <a href="http://www.github.com/martinGlvn"><img src="https://github-readme-streak-stats.herokuapp.com?user=martinGlvn&theme=java-dark&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" />
+    <a href="http://www.github.com/martinGlvn"><img src="https://github-readme-streak-stats.herokuapp.com?user=martinGlvn&theme=java-dark&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" width="450px"/>
    </a>
   </td>
    
  <td>
- <a href="https://github.com/martinGlvn"><img alt="Martin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=vision-friendly-dark"/>
+ <a href="https://github.com/martinGlvn"><img alt="Martin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=vision-friendly-dark" width="375px" />
  </a>  
  </td>
    
  </tr>
 </table>
 
-
-
-## ⚙️GitHub⚙️
-<p align="izquierda">
-<img width="375em" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=vision-friendly-dark" alt="estadísticas de Martin"/>
-<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=vision-friendly-dark" alt="La mayoría de los idiomas de martin" />
-</p>
-
-
-
-
+<!--=========================================================================================-->
 ##  Contact
 
 <p align="izquierda" estilo="fondo:amarillo">
@@ -82,6 +74,7 @@
   <img align="center" height="50em" width="50em" src="https://i.ibb.co/MDpMLPg/icons8-linkedin-240.png" alt="icons8-gmail-240" alt="codepen"/>
 </a>
 </p>
+<!--=========================================================================================-->
 
 
 
