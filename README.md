@@ -36,8 +36,8 @@
       </div>
       <div>
       <span>
-        <img src="https://img.shields.io/badge/-Communication%20Skills-white" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Team%20Management-white" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Leadership%20Skills-white" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Ready to learn & evolve-white" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-white" alt="">&nbsp;
       </span>
       </div>
