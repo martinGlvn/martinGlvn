@@ -47,17 +47,16 @@
 <table>
  <tr>
   <td>
-      <a href="https://github.com/Dun-sin"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=vision-friendly-dark" /></a>
+      <a href="https://github.com/martinGlvn"><img alt="Martin Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=vision-friendly-dark" /></a>
   </td>
   
   <td>
-    <a href="http://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com?user=martinGlvn&theme=java-dark&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" />
-    
+    <a href="http://www.github.com/martinGlvn"><img src="https://github-readme-streak-stats.herokuapp.com?user=martinGlvn&theme=java-dark&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" />
    </a>
   </td>
    
  <td>
- <a href="https://github.com/Dun-sin"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=vision-friendly-dark"/>
+ <a href="https://github.com/martinGlvn"><img alt="Martin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=vision-friendly-dark"/>
  </a>  
  </td>
    
