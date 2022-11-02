@@ -47,7 +47,7 @@
 <table>
  <tr>
   <td>
-      <a href="https://github.com/Dun-sin"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dun-sin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+      <a href="https://github.com/Dun-sin"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=vision-friendly-dark" /></a>
   </td>
   
   <td>
@@ -70,6 +70,7 @@
 <img width="375em" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=vision-friendly-dark" alt="estadísticas de Martin"/>
 <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=vision-friendly-dark" alt="La mayoría de los idiomas de martin" />
 </p>
+
 
 
 
