@@ -20,7 +20,7 @@
         <br/>
         🧑🏽‍💻 &nbsp;Open to work opportunities
         <br />
-        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
+        🔥 &nbsp;Follow me on github to stay tuned on my amazing projects.🔥
         <br/>
         <br />
       <p align="left">
@@ -43,19 +43,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h1>
-
-- 🔥ask me about ** Solity, DeFi, Web3, Polygon **🔥
-
-- ⚡ I am currently learning in **LearnWeb3.io - Web3.University- Platzi - OracleNextEducation** ⚡
-
-- 🦄 more about me [Linkedin ](https://www.linkedin.com/in/martingalvan1/) 🦄
-
 
 
 
