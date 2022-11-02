@@ -33,7 +33,6 @@
         <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;
       </span>
         <h3></h3>
-        <a  <a/>
         <br/>
         <br />
         <h3></h3>
