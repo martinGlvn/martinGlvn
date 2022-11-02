@@ -29,8 +29,8 @@
       <h3>Real Life Skills</h3>
       <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-white" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Team%20Management-white" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-white" alt="">&nbsp;
       </span>
         <h3></h3>
         <br/>
