@@ -72,12 +72,12 @@
 
 <!--=========================================================================================-->
 ##  Contact
-<p align="izquierda" estilo="fondo:amarillo">
-<a href="lkn.galvan.martin@gmail.com" target="_blank">
-  <img align="center" height="40em" width="40em" src="https://i.ibb.co/54FpNSH/icons8-gmail-240.png" alt="icons8-gmail-240" alt="codepen"/>
-  <img align="center" height="50em" width="50em" src="https://i.ibb.co/MDpMLPg/icons8-linkedin-240.png" alt="icons8-gmail-240" alt="codepen"/>
-</a>
-</p>
+<a href="https://twitter.com/Prakhartiwari0" target="_blank">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Linkedin&logo=Linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmartingalvan1%2F">
+      </a>
+      <a href="https://twitter.com/Prakhartiwari0" target="_blank">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Gmail&logo=Gmail&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmartingalvan1%2F">
+      </a>
 <!--=========================================================================================-->
 
 
