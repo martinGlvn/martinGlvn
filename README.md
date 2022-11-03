@@ -23,10 +23,7 @@
         🔥 &nbsp;Follow me on github to stay tuned on my amazing projects.🔥
         <br/>
         <br />
-      <p align="left">
-        <img src="https://i.postimg.cc/1zpD89Cc/icons.png"/>
-      </p> 
-<!--       <h3>Real Life Skills</h3> -->
+      <h2 align="left">Technical Skills</h2>
       <h2 align="left">Skills</h2>
       <div>
       <span>
