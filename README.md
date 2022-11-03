@@ -27,7 +27,7 @@
         <img src="https://i.postimg.cc/1zpD89Cc/icons.png"/>
       </p> 
 <!--       <h3>Real Life Skills</h3> -->
-      <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h1>
+      <h2 align="left">Skills</h2>
       <div>
       <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-white" alt="">&nbsp;
