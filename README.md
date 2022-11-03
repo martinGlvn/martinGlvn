@@ -21,8 +21,7 @@
         🧑🏽‍💻 &nbsp;Open to work opportunities
         <br />
         🔥 &nbsp;Follow me on github to stay tuned on my amazing projects.🔥
-        <br/>
-        <br />
+      
       <h2 align="left">Technical Skills</h2>
       <h2 align="left">Skills</h2>
       <div>
