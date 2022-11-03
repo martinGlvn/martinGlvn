@@ -22,6 +22,7 @@
         <br />
         🔥 &nbsp;Follow me on github to stay tuned on my amazing projects.🔥
       <h2 align="left">Technical Skills</h2>
+      <img src="https://img.shields.io/badge/solidity-3670A0?style=for-the-badge&logo=Solidity&logoColor=white" alt="">&nbsp;
       <h2 align="left">Skills</h2>
       <div>
       <span>
