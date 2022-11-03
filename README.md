@@ -26,7 +26,8 @@
       <p align="left">
         <img src="https://i.postimg.cc/1zpD89Cc/icons.png"/>
       </p> 
-      <h3>Real Life Skills</h3>
+<!--       <h3>Real Life Skills</h3> -->
+      <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h1>
       <div>
       <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-white" alt="">&nbsp;
@@ -39,7 +40,7 @@
         <img src="https://img.shields.io/badge/-Leadership%20Skills-white" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Ready to learn & evolve-white" alt="">&nbsp;
         <img src="https://img.shields.io/badge/-Critical thinking-white" alt="">&nbsp;
-      </span>
+        </span>
       </div>
         <br/>
         <a>
@@ -76,7 +77,6 @@
 
 <!--=========================================================================================-->
 ##  Contact
-
 <p align="izquierda" estilo="fondo:amarillo">
 <a href="lkn.galvan.martin@gmail.com" target="_blank">
   <img align="center" height="40em" width="40em" src="https://i.ibb.co/54FpNSH/icons8-gmail-240.png" alt="icons8-gmail-240" alt="codepen"/>
