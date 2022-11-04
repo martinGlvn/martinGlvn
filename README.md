@@ -21,12 +21,12 @@
         🧑🏽‍💻 &nbsp;Open to work opportunities
         <br />
         🔥 &nbsp;Follow me on github to stay tuned on my amazing projects.🔥
-      <h2 align="left">Technical Skills</h2>
+      <h2 align="left">⚡Technical Skills</h2>
       <img src="https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=Solidity" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react" alt="">&nbsp;
-      <h2 align="left">Skills</h2>
+      <h2 align="left">⚡Skills</h2>
       <div>
       <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-white" alt="">&nbsp;
@@ -74,7 +74,7 @@
  </tr>
 </table>
 <!--=========================================================================================-->
-<h2 align="left">Project Code</h2>
+<h2 align="left">⚡Project Code</h2>
 
 <p align="center">
   <a href="https://github.com/0xTRAW/Cybersecurity-Roadmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Cybersecurity-Roadmap&theme=react&bg_color=050505&title_color=DD6700&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap">
@@ -95,7 +95,7 @@
 
 
 <!--=========================================================================================-->
-##  Contact
+##  ⚡Contact
 <a href="https://twitter.com/Prakhartiwari0" target="_blank">
         <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Linkedin&logo=Linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmartingalvan1%2F">
       </a>
