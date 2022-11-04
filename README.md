@@ -75,7 +75,12 @@
 </table>
 <!--=========================================================================================-->
 ##  Project Code
-
+<a href="https://twitter.com/Prakhartiwari0" target="_blank">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Linkedin&logo=Linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmartingalvan1%2F">
+      </a>
+      <a href="https://twitter.com/Prakhartiwari0" target="_blank">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Gmail&logo=Gmail&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmartingalvan1%2F">
+      </a>
 <!--=========================================================================================-->
 
 
