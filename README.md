@@ -1,8 +1,11 @@
+<!--=========================================================================================-->
 <img src="https://i.postimg.cc/zvFw9TV6/Group-5.png" width=100% />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Azarate+Mono&size=25&duration=2000&pause=1000&color=DD6700&background=812DFF00&center=true&vCenter=true&width=420&lines=%7C-----Cyber+Segurity-----%7C;%7C-----------DeFi----------%7C;%7C--------Ethereum---------%7C;%7C-----------Web3------------%7C" alt="Typing SVG" /></a>
 </p>
+<!--=========================================================================================-->
+
 
 <!--=========================================================================================-->
 <table align="center">
@@ -53,6 +56,9 @@
   </tr>
 </table>
 <!--=========================================================================================-->
+
+
+<!--=========================================================================================-->
 <table>
  <tr>
    
@@ -74,6 +80,9 @@
  </tr>
 </table>
 <!--=========================================================================================-->
+
+
+<!--=========================================================================================-->
 <h2 align="left">⚡Project Code</h2>
 
 <p align="center">
@@ -87,8 +96,7 @@
   </a>
   <a href="https://github.com/0xTRAW/PwnLnX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=PwnLnX&theme=react&bg_color=050505&title_color=DD6700&hide_border=true&icon_color=F8D866&show_icons=false" alt="PwnLnX-Advanced-Reverse-shell">     </a>
   <a href="https://github.com/0xTRAW/Linux-Privilege-Escalation-MindMap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Privilege-Escalation-MindMap&theme=react&bg_color=050505&title_color=DD6700&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Privilege-Escalation-MindMap">
-  </a>
-  
+  </a> 
 </p>
 <!--=========================================================================================-->
 
