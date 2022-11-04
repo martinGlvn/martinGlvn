@@ -75,7 +75,15 @@
 </table>
 <!--=========================================================================================-->
 <h2 align="left">Project Code</h2>
-
+<p align="center">
+  
+  <a href="https://github.com/0xTRAW/Cybersecurity-Roadmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Cybersecurity-Roadmap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap">
+  </a>
+  <a href="https://github.com/0xTRAW/PwnLnX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=PwnLnX&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="PwnLnX-Advanced-Reverse-shell">     </a>
+  <a href="https://github.com/0xTRAW/Linux-Privilege-Escalation-MindMap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Privilege-Escalation-MindMap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Privilege-Escalation-MindMap">
+  </a>
+  
+</p>
 <!--=========================================================================================-->
 
 
