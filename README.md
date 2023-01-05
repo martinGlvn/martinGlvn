@@ -12,7 +12,7 @@
   <tr>
     <td valign="center">
       <a href="">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logoColor=white" alt="My Portfolio"/></a>
       <p>
         <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h2>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
