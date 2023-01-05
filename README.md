@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logoColor=white" alt="My Portfolio"/></a>
       <p>
         <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h2>
-        👀 &nbsp;I love to build projects, make life easier and fun with code.
+        🤖 &nbsp;I love the software development and teamwork... 🤖
         <br/>
         🚀 &nbsp;Blockchain Developer 🚀
         <br/>
@@ -23,7 +23,7 @@
         <br/>
         🧑🏽‍💻 &nbsp;Open to work opportunities
         <br />
-        🔥 &nbsp;Follow me on github to stay tuned on my amazing projects.🔥
+        🔥 &nbsp;Follow me on github to stay tuned on my projects.🔥
       <h2 align="left">⚡Technical Skills</h2>
       <img src="https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=Solidity" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" alt="">&nbsp;
