@@ -1,8 +1,8 @@
 <!--=========================================================================================-->
 <img src="https://i.postimg.cc/zvFw9TV6/Group-5.png" width=100% />
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Azarate+Mono&size=25&duration=2000&pause=1000&color=00CED1&background=812DFF00&center=true&vCenter=true&width=420&lines=%7C-----Cyber+Segurity-----%7C;%7C-----------DeFi----------%7C;%7C--------Ethereum---------%7C;%7C-----------Web3------------%7C" alt="Typing SVG" /></a>
+<p align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Azarate+Mono&size=25&duration=2000&pause=1000&color=00CED1&background=812DFF00&center=true&vCenter=true&width=420&lines=%7C-----Docker-----%7C;%7C-----------Terraform----------Python--------AWS---------Cybersecurity-----------Azure------------Data-----------%7C" alt="Typing SVG" /></a>
 </p>
 <!--=========================================================================================-->
 
