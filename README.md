@@ -24,7 +24,7 @@
         🧑🏽‍💻 &nbsp;Open to work opportunities
         <br />
         🔥 &nbsp;Follow me on github to stay tuned on my projects.🔥
-      <h2 align="left">⚡Technical Skills</h2>
+      <h2 align="left">💎Technical Skills</h2>
       <img src="https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon" alt="">&nbsp;
