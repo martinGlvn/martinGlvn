@@ -60,17 +60,17 @@
  <tr>
    
   <td>
-      <a href="https://github.com/martinGlvn"><img alt="Martin Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=vision-friendly-dark" width="450px" />
+      <a href="https://github.com/martinGlvn"><img alt="Martin Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinGlvn&show_icons=true&theme=tokyonight" width="300px" />
       </a>
   </td> 
   
   <td>
-    <a href="http://www.github.com/martinGlvn"><img src="https://github-readme-streak-stats.herokuapp.com?user=martinGlvn&theme=java-dark&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" width="450px"/>
+    <a href="http://www.github.com/martinGlvn"><img src="https://github-readme-streak-stats.herokuapp.com?user=martinGlvn&theme=tokyonight&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" width="300px"/>
    </a>
   </td>
    
  <td>
- <a href="https://github.com/martinGlvn"><img alt="Martin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=vision-friendly-dark" width="375px" />
+ <a href="https://github.com/martinGlvn"><img alt="Martin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=tokyonight" width="300px" height="125px" />
  </a>  
  </td>
    
