@@ -25,7 +25,7 @@
         <br />
         🔥 &nbsp;Follow me on github to stay tuned on my projects.🔥
       <h2 align="left">⚡Technical Skills</h2>
-      <img src="https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=Solidity" alt="">&nbsp;
+      <img src="https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=terraform" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react" alt="">&nbsp;
