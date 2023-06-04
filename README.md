@@ -29,9 +29,7 @@
       <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon" alt="">&nbsp;
       <img src="https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker" alt="">&nbsp;
-      
       <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" alt="">&nbsp;
-      
       
       <h2 align="left">💎Skills</h2>
       <div>
