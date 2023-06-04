@@ -1,5 +1,5 @@
 <!--=========================================================================================-->
-<img src="https://i.postimg.cc/zvFw9TV6/Group-5.png" width=100% />
+<img src="https://i.postimg.cc/bNMNwZxT/NEW-PROFILE.png" width=100% />
 
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Azeret+Mono&weight=600&duration=1500&pause=1500&background=FF962300&center=true&vCenter=true&width=420&lines=%7C--------Cloud+Engineer--------%7C;%7C-----------Terraform-----------%7C;%7C------------Docker------------%7C;%7C-----------Autodidact----------%7C;%7C------------Python------------%7C;%7C--------Azure-AWS--------%7C" alt="Typing SVG" /></a>
