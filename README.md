@@ -25,7 +25,7 @@
         <br />
         🔥 &nbsp;Follow me on github to stay tuned on my projects.🔥
       <h2 align="left">💎Technical Skills</h2>
-      <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" alt="">&nbsp;
+      <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark" alt="">&nbsp;
       <h2 align="left">💎Skills</h2>
       <div>
       <span>
