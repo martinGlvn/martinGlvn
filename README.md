@@ -29,16 +29,16 @@
       <h2 align="left">💎Skills</h2>
       <div>
       <span>
-        <img src="https://img.shields.io/badge/-Communication%20Skills-white" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Team%20Management-white" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-white" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Communication%20Skills-%23242938" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Team%20Management-%23242938" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-%23242938" alt="">&nbsp;
       </span>
       </div>
       <div>
       <span>
-        <img src="https://img.shields.io/badge/-Leadership%20Skills-white" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Ready to learn & evolve-white" alt="">&nbsp;
-        <img src="https://img.shields.io/badge/-Critical thinking-white" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Leadership%20Skills-%23242938" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Ready to learn & evolve-%23242938" alt="">&nbsp;
+        <img src="https://img.shields.io/badge/-Critical thinking-%23242938" alt="">&nbsp;
         </span>
       </div>
         <br/>
