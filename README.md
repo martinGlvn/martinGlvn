@@ -51,7 +51,7 @@
        </p>
     </td>
     <td>
-      <img src="https://i.postimg.cc/GpR1dhgQ/Final.png" width="250" alt="Martin Dev Card"/>
+      <img src="https://i.postimg.cc/3xsXmJTj/Final.png" width="250" alt="Martin Dev Card"/>
     </td>
   </tr>
 </table>
