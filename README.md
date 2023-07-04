@@ -87,7 +87,7 @@
   </a>
   <a href="https://github.com/martinGlvn/MicroserviceArchitecture"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Cybersecurity-Roadmap">
   </a>
-  <a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
+  <a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="blank"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
   </a>
 </p>
 <!--=========================================================================================-->
