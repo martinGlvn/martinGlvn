@@ -70,7 +70,7 @@
   </td>
    
  <td>
- <a href="https://github.com/martinGlvn"><img alt="Martin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&theme=tokyonight" width="300px" height="125px" />
+ <a href="https://github.com/martinGlvn"><img alt="Martin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinGlvn&layout=compact&border_color=56008B&bg_color=0D1117" width="300px" height="125px" />
  </a>  
  </td>
    
