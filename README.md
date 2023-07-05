@@ -65,7 +65,7 @@
   </td> 
   
   <td>
-    <a href="http://www.github.com/martinGlvn"><img src="https://github-readme-streak-stats.herokuapp.com?user=martinGlvn&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" width="300px"/>
+    <a href="http://www.github.com/martinGlvn"><img src="https://github-readme-streak-stats.herokuapp.com?user=martinGlvn&theme=tokyonight-duo&hide_border=true&border_radius=&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=300" width="300px"/>
    </a>
   </td>
    
