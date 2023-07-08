@@ -17,9 +17,9 @@
         <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I´m Martin Galván</h2>
         🤖 &nbsp;I love the software development and teamwork... 🤖
         <br/>
-        🚀 &nbsp;Blockchain Developer 🚀
+        🚀 &nbsp;Cloud Engineer 🚀
         <br/>
-        ⚡ &nbsp;I am learning in LearnWeb3.io - Web3.University - AlchemyUniversity⚡
+        ⚡ &nbsp;I am learning in AWS - Microsoft - YT⚡
         <br/>
         🧑🏽‍💻 &nbsp;Open to work opportunities
         <br />
