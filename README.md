@@ -24,9 +24,9 @@
         🧑🏽‍💻 &nbsp;Open to work opportunities
         <br />
         🔥 &nbsp;Follow me on github to stay tuned on my projects.🔥
-      <h2 align="left">💎Technical Skills</h2>
+      <h2 align="left">Technical Skills</h2>
       <img src="https://skillicons.dev/icons?i=aws,py,docker,javascript,azure,bash,nodejs,mysql&theme=dark" alt="">&nbsp;
-      <h2 align="left">💎Skills</h2>
+      <h2 align="left">Skills</h2>
       <div>
       <span>
         <img src="https://img.shields.io/badge/-Communication%20Skills-%23242938" alt="">&nbsp;
@@ -80,7 +80,7 @@
 
 
 <!--=========================================================================================-->
-<h2 align="left">💎Project Code</h2>
+<h2 align="left">Project Code</h2>
 
 <!--============================================TEST=============================================-->
 <p align="center">
@@ -97,7 +97,7 @@
 <!--=========================================================================================-->
 
 <!--=========================================================================================-->
-##  💎Contact
+##  Contact
 <a href="" target="_blank">
         <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Linkedin&logo=Linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmartingalvan1%2F">
       </a>
