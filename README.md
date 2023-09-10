@@ -21,7 +21,7 @@
         <br/>
         ⚡ &nbsp;I am learning in AWS - Microsoft - YT⚡
         <br/>
-        🧑🏽‍💻 &nbsp;Open to work opportunities
+        💻&nbsp;Open to work opportunities💻
         <br />
         🔥 &nbsp;Follow me on github to stay tuned on my projects.🔥
       <h2 align="left">Technical Skills</h2>
